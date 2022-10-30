@@ -10,7 +10,7 @@ namespace lab7
     {
         private string _name = " ";
         private int _age = 0;
-        private string _gender = " ";
+        private string _gender = " "; 
 
         public string Name
         {

@@ -79,7 +79,7 @@ namespace Lab1
             {
                 Console.WriteLine(lab.Id());
                 Console.WriteLine(lab.Name());
-                Console.WriteLine(lab.Description());
+                Console.WriteLine(lab.Description()); 
                 Console.WriteLine();
             }
         }
@@ -105,7 +105,7 @@ namespace Lab1
         };
             foreach (string command in commands)
             {
-                Console.WriteLine(command);
+                Console.WriteLine(command); 
             }
         }
     }

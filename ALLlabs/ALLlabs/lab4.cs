@@ -64,7 +64,7 @@ namespace Lab1
         /// </summary>
         /// <returns></returns>
         /// <returns>Описание лабы</returns> 
-        public string Description()
+        public string Description() 
         {
             return "Задание 4";
         }

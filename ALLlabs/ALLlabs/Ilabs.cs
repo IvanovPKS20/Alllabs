@@ -7,7 +7,7 @@ namespace Lab1
     {
         void Demo();
         string Name();
-        string Description();
+        string Description(); 
         int Id();
     }
 }
