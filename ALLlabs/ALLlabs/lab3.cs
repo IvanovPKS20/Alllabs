@@ -19,7 +19,7 @@ namespace Lab1
             {
                 num++;
                 ost_d5 = num % 12;
-                if (ost_d5 == 0)
+                if (ost_d5 == 0) 
                 {
                     Console.WriteLine(num);
                 }

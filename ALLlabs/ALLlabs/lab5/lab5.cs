@@ -21,13 +21,13 @@ namespace AllLabs.Lab5
             exemp1.GlavDiag();
             Console.WriteLine();
             exemp1.PassivDiag();
-            Console.ReadKey( );
+            Console.ReadKey();
         }
         /// <summary>
         /// Метод возвращает описание заданий лабораторной работы
         /// </summary>
         /// <returns></returns>
-        /// <returns>Описание лабы</returns>
+        /// <returns>Описание</returns>
         public string Description()
         {
             return "Задание 5";
@@ -35,7 +35,7 @@ namespace AllLabs.Lab5
         /// <summary>
         /// Метод возвращает номер лабораторной работы
         /// </summary>
-        /// <returns>Номер лабы</returns>
+        /// <returns>Номер лабораторной</returns>
         public int Id()
         {
             return 5;
