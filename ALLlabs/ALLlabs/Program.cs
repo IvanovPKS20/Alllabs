@@ -10,8 +10,8 @@ namespace Lab1
         {
             List<ILabs> labs = new List<ILabs>();
             labs.Add(new Lab1());           // добавляем лабы в список
-            labs.Add(new Lab2());           // потом сделаем автоматически!
-            labs.Add(new Lab3()); 
+            labs.Add(new Lab2());           // потом сделаем автоматически! 
+            labs.Add(new Lab3());
             labs.Add(new Lab4());
             labs.Add(new Lab5());
             labs.Add(new Lab6());

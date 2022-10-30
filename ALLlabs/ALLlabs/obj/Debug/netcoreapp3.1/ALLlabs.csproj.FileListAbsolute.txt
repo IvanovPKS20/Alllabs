@@ -3,3 +3,12 @@ C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.Generat
 C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.AssemblyInfoInputs.cache
 C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.AssemblyInfo.cs
 C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.csproj.CoreCompileInputs.cache
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\bin\Debug\netcoreapp3.1\ALLlabs.exe
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\bin\Debug\netcoreapp3.1\ALLlabs.deps.json
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\bin\Debug\netcoreapp3.1\ALLlabs.runtimeconfig.json
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\bin\Debug\netcoreapp3.1\ALLlabs.runtimeconfig.dev.json
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\bin\Debug\netcoreapp3.1\ALLlabs.dll
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\bin\Debug\netcoreapp3.1\ALLlabs.pdb
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.dll
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.pdb
+C:\Users\JJU\Desktop\JJU\ALLlabs\ALLlabs\obj\Debug\netcoreapp3.1\ALLlabs.genruntimeconfig.cache
