@@ -8,7 +8,7 @@ namespace AllLabs.Lab5
     {
         /// <summary>
         /// Метод демонстрации всех заданий лабораторной работы
-        /// </summary>    
+        /// </summary>     
         public void Demo()
         {
             // Console.WriteLine("Демо");

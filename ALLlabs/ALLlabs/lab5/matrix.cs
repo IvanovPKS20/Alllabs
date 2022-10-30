@@ -44,7 +44,7 @@ namespace AllLabs.Lab5
             {
                 for (int j = 0; j < _massiv.GetLength(1); j++)
                 {
-                    sum += _massiv[i, j];
+                    sum += _massiv[i, j]; 
                 }
             }
             return sum;

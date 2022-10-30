@@ -21,7 +21,7 @@ namespace AllLabs.Lab5
             exemp1.GlavDiag();
             Console.WriteLine();
             exemp1.PassivDiag();
-            Console.ReadKey();
+            Console.ReadKey( );
         }
         /// <summary>
         /// Метод возвращает описание заданий лабораторной работы
