@@ -70,7 +70,7 @@ namespace AllLabs.Lab5
         }
 
         /// <summary>
-        /// Метод возвращает заголовок лабораторной работы
+        /// Метод возвращает заголовок лабораторной работы 
         /// </summary>
         /// <returns></returns>
         public string Name()

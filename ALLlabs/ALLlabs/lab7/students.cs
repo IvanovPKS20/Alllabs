@@ -53,7 +53,7 @@ namespace lab7
             }
             set
             {
-                _special = value;
+                _special = value; 
             }
         }
 

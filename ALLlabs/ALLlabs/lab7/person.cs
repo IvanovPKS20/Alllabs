@@ -27,7 +27,7 @@ namespace lab7
         {
             get
             {
-                return _age;
+                return _age; 
             }
             set
             {

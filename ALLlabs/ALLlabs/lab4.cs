@@ -63,7 +63,7 @@ namespace Lab1
         /// Метод возвращает описание заданий лабораторной работы 
         /// </summary>
         /// <returns></returns>
-        /// <returns>Описание лабы</returns>
+        /// <returns>Описание лабы</returns> 
         public string Description()
         {
             return "Задание 4";
