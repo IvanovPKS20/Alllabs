@@ -60,7 +60,7 @@ namespace Lab1
                 {
                     if (ID == lab.Id())
                     {
-                        lab.Demo();
+                        lab.Demo(); 
                     }
                 }
             }
