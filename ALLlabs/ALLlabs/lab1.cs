@@ -67,7 +67,7 @@ namespace Lab1
         /// Метод возвращает заголовок лабораторной работы
         /// </summary>
         /// <returns></returns>
-        public string Name() 
+        public string Name()  
         {
             return "Лабораторная №1. Тема: математические вычисления";
         }

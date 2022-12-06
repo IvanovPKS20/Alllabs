@@ -27,7 +27,7 @@ namespace Lab1
             Console.WriteLine();
             //do while
             int num2 = 0, ost2_d5;
-            do
+            do 
             {
                 num2++;
                 ost2_d5 = num2 % 12;

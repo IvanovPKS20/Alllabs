@@ -9,7 +9,7 @@ namespace AllLabs.Lab5
         /// <summary>
         /// Метод демонстрации всех заданий лабораторной работы
         /// </summary>    
-        public void Demo()
+        public void Demo() 
         {
             // Console.WriteLine("Демо");
             // ход лабы

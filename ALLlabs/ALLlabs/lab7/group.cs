@@ -9,7 +9,7 @@ namespace lab7
     class Group
     {
         List<Students> _groupList = new List<Students>(); 
-        public void Add(Students student)
+        public void Add(Students student) 
         {
             _groupList.Add(student);
 

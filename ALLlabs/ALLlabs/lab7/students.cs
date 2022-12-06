@@ -22,7 +22,7 @@ namespace lab7
         private string _group = " ";
         private string _vuz = " ";
         private string _special = " ";
-        // свойства
+        // свойства 
         public string MyGroup
         {
             get

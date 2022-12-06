@@ -51,7 +51,7 @@ namespace AllLabs.Lab5
         }
         public void GlavDiag()
         {
-            for (int i = 0; i < _stroki; i++)
+            for (int i = 0; i < _stroki; i++) 
             {
                 for (int j = 0; j < _stolbi; j++)
                 {
