@@ -11,7 +11,7 @@ namespace Lab1
         public void Demo()
         {
             // Console.WriteLine("Демо");
-            // ход лабы
+            
             // задание №1
             int a = 2; int b = 3; int c = 15;
             double p1 = Math.Sqrt((Math.Pow(a, 2) - Math.Pow(b, 3)) / Math.Sqrt(Math.Pow(b, 4) - Math.Pow(a, 4)) + Math.Abs(Math.Pow(b, 5) - Math.Pow(c, 2.5)));
